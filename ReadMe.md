@@ -1,7 +1,11 @@
    FILE          : BurglarAlarmProject.ino
+   
    PROJECT       : PROG8125-16S - Project
+   
    PROGRAMMER    : Mayur Hadole (5783)
+   
    FIRST VERSION : 2016-07-31
+   
    DESCRIPTION   :
          Project Statement (No. 2)
      Burglar alarm that monitors 5 zones. Zones are monitored by a loop of wire.
